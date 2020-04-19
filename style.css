@@ -82,26 +82,30 @@ a:hover{
 }
 
 /* End Of Header CSS  */
-.path2{
-    margin-top: 5em;
-    height: 80vh;
-    position: relative;
-}
-
 h3{
     padding: 2rem 8rem 0 10rem;
     color: #685DDF;
 }
 
-.about-mee {
-    font-size: 15px;
-    line-height: 2rem;
-    color: #777;
-    max-width: 350px;
-  margin: 1rem 0 0 10rem;
+.about-container{
+    width: 95%;
+    margin: auto;
 }
 
 
+p{
+    font-size: 15px;
+  line-height: 2rem;
+  color: #777;
+  margin-left: 6rem;
+}
+
+.block{
+    float: left; 
+	width: 33.3%;
+	padding: 10px;
+	box-sizing: border-box;
+}
 
  
   
