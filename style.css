@@ -1,111 +1,106 @@
-*{
-    box-sizing: border-box;
+* {
+  box-sizing: border-box;
 }
 
-body{
-    margin: 0;
-    background:rgba(202, 199, 202, 0.055);
-    color: #5A4FDC;
-    font-family: Arial, Helvetica, sans-serif;
+body {
+  margin: 0;
+  background: rgba(202, 199, 202, 0.055);
+  color: #5a4fdc;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 /* Start Of Header CSS  */
 
-.main-container{
-    height: 100vh;
+.main-container {
+  height: 100vh;
 }
 
-a{
-    color: #ffffff;
-    text-decoration: none;
+a {
+  color: #ffffff;
+  text-decoration: none;
 }
 
-ul{
-    list-style: none;
-    margin: 0;
-    padding: 0;
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
-.right{
-position: relative;
-height: 41.5em;
-float: right;
-top: 0;
-bottom: 0;
+.right {
+  position: relative;
+  height: 41.5em;
+  float: right;
+  top: 0;
+  bottom: 0;
 }
 
-.tosin{
-    margin-left: 45rem;
-    height: 40.3em;
-    position: absolute;
+.tosin {
+  margin-left: 45rem;
+  height: 40.3em;
+  position: absolute;
 }
 
-.wrapper{
-    padding: 1.5em;
-    max-width: 1200;
-    margin: 0 auto;
+.wrapper {
+  padding: 1.5em;
+  max-width: 1200;
+  margin: 0 auto;
 }
 
-header{
-    display: flex;
-    justify-content: space-between;
+header {
+  display: flex;
+  justify-content: space-between;
 }
 
-ul{
-    display: flex;
-    padding-left: 18rem;
-    
+ul {
+  display: flex;
+  padding-left: 18rem;
 }
 
 li a {
-    padding: 0em 10em 0 10rem;
-    color: #ffffff;
-    font-weight: bold;
-    position: absolute;
+  padding: 0em 10em 0 10rem;
+  color: #ffffff;
+  font-weight: bold;
+  position: absolute;
 }
 
-li{
-    padding-top: 1rem;
-    padding-left: 8rem;
-    font-kerning: auto;
-    color: #FFD944;
+li {
+  padding-top: 1rem;
+  padding-left: 8rem;
+  font-kerning: auto;
+  color: #ffd944;
 }
 
-a:hover{
-    color: #FFD944;
-    cursor: pointer;
+a:hover {
+  color: #ffd944;
+  cursor: pointer;
 }
 
-.wrapper-content{
-    margin-top: 2rem;
-    padding: 8rem 8rem 0;
+.wrapper-content {
+  margin-top: 2rem;
+  padding: 8rem 8rem 0;
 }
 
 /* End Of Header CSS  */
-h3{
-    padding: 2rem 8rem 0 10rem;
-    color: #685DDF;
+h3 {
+  padding: 2rem 8rem 0 10rem;
+  color: #685ddf;
 }
 
-.about-container{
-    width: 95%;
-    margin: auto;
+.about-container {
+  width: 95%;
+  margin: auto;
 }
 
-
-p{
-    font-size: 15px;
+p {
+  font-size: 15px;
   line-height: 2rem;
   color: #777;
   margin-left: 6rem;
 }
 
-.block{
-    float: left; 
-	width: 33.3%;
-	padding: 10px;
-	box-sizing: border-box;
+.block {
+  float: left;
+  width: 33.3%;
+  padding: 10px;
+  box-sizing: border-box;
 }
-
- 
-  
