@@ -50,6 +50,19 @@ ul {
   margin: 0 auto;
 }
 
+.hello {
+  padding-left: -12rem;
+  margin-bottom: -1rem;
+}
+
+.at {
+  margin-left: 6rem;
+}
+.ui {
+  margin-left: 6rem;
+  margin-top: -0.5rem;
+}
+
 header {
   display: flex;
   justify-content: space-between;
